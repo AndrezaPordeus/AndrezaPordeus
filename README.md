@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="left"> 👋 Hi there!</div>  
+### <div align="left"> 👋🏽 Hi there!</div>  
   
 
-- 👩‍💻 I'm a front end developer student currently learning how to develop and optimize web sites.  
+- 👩🏻‍💻 I'm a front end developer student currently learning how to develop and optimize web sites.  
   
 
 - 📚 Always looking to learn new things.   
@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Skill Set  
+## ⚔️ Skill Set  
 
 <p align="center"> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
@@ -31,7 +31,7 @@
 <br/>  
 
 
-## Github Stats  
+## 📉 Stats  
 
 <p align="center">
   <a href="https://github.com/AndrezaPordeus">
@@ -43,6 +43,3 @@
   </p>
   
 <br/>   
-
-
-----
