@@ -28,8 +28,6 @@
 
 
 
-</td></tr></table>  
-
 <br/>  
 
 
@@ -38,10 +36,11 @@
 <div>
   <a href="https://github.com/AndrezaPordeus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrezaPordeus&show_icons=true&theme=shadow_red">
-    
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrezaPordeus&layout=compact&langs_count=6&theme=shadow_red">
-  
+  <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndrezaPordeus&layout=compact&theme=shadow_red">
+  </p>
 </div>
   
 <br/>   
