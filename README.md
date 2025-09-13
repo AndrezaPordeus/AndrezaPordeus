@@ -2,14 +2,14 @@
 <img height="180em" src="https://i.imgur.com/FSiVK5Z.png" align="center">
 </div>  
   
-
-### <div align="left"> 👋🏽 Hi there!</div>  
-
+## 👋🏽 Hi there! 
 <br/>  
+<p align="center">
+➼ 👩🏻‍💻 I'm a front end developer student currently learning how to develop and optimize web sites. 
+  <br/>
+➼ 📚 Always looking to learn new things.   
+</p>
 
-- 👩🏻‍💻 I'm a front end developer student currently learning how to develop and optimize web sites.  
-- 📚 Always looking to learn new things.   
-  
 <br/>  
 
 ## ⚔️ Skill Set  
